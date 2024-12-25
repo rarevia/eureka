@@ -7,7 +7,14 @@
     <description>Recent content in Categories on God</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rarevia.github.io/eureka/categories/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://rarevia.github.io/eureka/posts/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rarevia.github.io/eureka/posts/example/</guid>
+      <description>&lt;p&gt;Hello my &lt;strong&gt;friends&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;It is so nice to &lt;strong&gt;see&lt;/strong&gt; you here.&lt;/p&gt;&#xA;</description>
+    </item>
   </channel>
 </rss>
