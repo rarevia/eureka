@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type="text/xsl" href="https://rarevia.github.io/eureka/xml/base.min.xml" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:1313/eureka/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on God</title>
-    <link>https://rarevia.github.io/eureka/tags/</link>
+    <link>http://localhost:1313/eureka/tags/</link>
     <description>Recent content in Tags on God</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://rarevia.github.io/eureka/tags/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/eureka/tags/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/eureka/posts/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eureka/posts/example/</guid>
+      <description>&lt;p&gt;Hello my &lt;strong&gt;friends&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;It is so nice to &lt;strong&gt;see&lt;/strong&gt; you here.&lt;/p&gt;&#xA;</description>
+    </item>
   </channel>
 </rss>

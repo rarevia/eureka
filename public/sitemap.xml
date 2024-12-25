@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rarevia.github.io/eureka/categories/</loc>
+    <loc>http://localhost:1313/eureka/posts/example/</loc>
   </url><url>
-    <loc>https://rarevia.github.io/eureka/</loc>
+    <loc>http://localhost:1313/eureka/categories/</loc>
   </url><url>
-    <loc>https://rarevia.github.io/eureka/tags/</loc>
+    <loc>http://localhost:1313/eureka/</loc>
+  </url><url>
+    <loc>http://localhost:1313/eureka/posts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/eureka/tags/</loc>
   </url>
 </urlset>
