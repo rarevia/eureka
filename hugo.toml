@@ -1,0 +1,4 @@
+baseURL = 'https://rarevia.github.io/eureka/'
+languageCode = 'en-us'
+title = 'God'
+theme='hugo-flex'
